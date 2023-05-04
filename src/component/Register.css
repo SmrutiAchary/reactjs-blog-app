@@ -1,0 +1,29 @@
+/* 
+
+
+.header{
+    margin-top: 15%;
+    margin-left:8%;
+    padding-top: 10px;
+    box-sizing: border-box;
+    border: 2px solid #e9e9e6;
+    width:fit-content;
+   box-shadow: 0 0 3px 2px;
+   background-color: rgb(231, 229, 229);
+   border-radius: 10% 0 0 10%;
+    margin-top: 16%;
+   background: linear-gradient(to right, hwb(120 5% 95%), #aaaaaa);
+} */
+
+.main{
+    border-radius: 5em;
+    background: linear-gradient(to right, #c8c8cc, #6989cf);
+    margin: 5%;
+}
+
+.btn{
+    margin-left: 25px;
+}
+h2{
+    color:aliceblue;
+}
